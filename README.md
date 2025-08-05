@@ -58,6 +58,8 @@ MongoDB connected: .....
 Initialize the frontend
 -------------------------------------------
 
+cd frontend
+
 npm install
 
 -----------------------------------------
@@ -69,4 +71,5 @@ npm run dev
 ------------------
 
   
+
 
